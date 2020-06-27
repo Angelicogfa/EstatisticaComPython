@@ -15,4 +15,8 @@ Modulos:
     2. Distribuição de frequencia para variáveis quantitativas
        1. Amplitude fixa
        2. Amplitude variável
- 3. 
+    3. Histogramas
+ 3. Medidas de tendência central
+    1. Média
+    2. Mediana
+    3. Moda
